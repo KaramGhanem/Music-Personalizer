@@ -1,6 +1,6 @@
-# Conversational AI with Memory and Topic Extraction
+# Music Composer via Conversational AI with Memory and Topic Extraction
 
-This repository contains a conversational AI system that maintains user profiles, extracts conversation topics, and generates personalized responses. The system is built using Python and leverages OpenAI's GPT models for natural language processing.
+This repository contains a conversational AI system that maintains user profiles, extracts conversation topics, and generates personalized responses to help a user compose music via various key words that correspond to user interests extracted throughout the conversation . The system is built using Python and leverages LLMs that are called via api jeys for natural language processing.
 
 ## Features
 
