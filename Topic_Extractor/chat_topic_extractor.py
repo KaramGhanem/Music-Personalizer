@@ -2,20 +2,22 @@ import os
 import re
 import json
 import logging
+import numpy as np
+from typing import List, Dict, Optional, Tuple
+from collections import defaultdict
+from dataclasses import dataclass
+
+import nltk
+import spacy
+import phrasemachine
+import umap.umap_ as umap
+
+from sklearn.cluster import KMeans
+from sklearn.metrics import silhouette_score
 from langchain_community.chat_models import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
-import numpy as np
-from sklearn.metrics import silhouette_score
-from dataclasses import dataclass
-import phrasemachine
-import umap.umap_ as umap
 from joblib import Parallel, delayed
-from collections import defaultdict
-import spacy
-import nltk
-from sklearn.cluster import KMeans
-from typing import List, Dict, Any, Optional, Tuple
 
 # Initialize the language model (using ChatOpenAI as an example)
 LLM = ChatOpenAI(
