@@ -1,0 +1,99 @@
+{
+    "user_profile": {
+        "name": "Karam",
+        "age": null,
+        "interests": [
+            "playing the oud",
+            "learning electric guitar",
+            "fusion music",
+            "mixing oriental and western music",
+            "playing oriental folk songs in a western band setup",
+            "Syrian music",
+            "Lebanese music",
+            "using the oud instrument",
+            "mixing it with flamenco guitar",
+            "using the electric guitar",
+            "incorporate upbeat vibes",
+            "fusion",
+            "psychedelic",
+            "oriental",
+            "western fusion",
+            "fusion sound",
+            "Middle Eastern modes",
+            "Western psychedelic rock textures",
+            "musical progression",
+            "Phrygian mode",
+            "hypnotic feel",
+            "tension",
+            "mysticism",
+            "psych rock",
+            "Anatolian rock",
+            "experimental music",
+            "rock",
+            "western oriental fusion",
+            "psychedelia",
+            "western",
+            "oriental",
+            "musical experience",
+            "forming a band",
+            "flamenco",
+            "levantine music",
+            "upbeat"
+        ],
+        "musical_goals": [
+            "improving modal improvisation",
+            "using pedals creatively with traditional instruments"
+        ],
+        "favorite_genres": null,
+        "playing_instruments": [
+            "oud",
+            "flamenco guitar",
+            "trumpet",
+            "electric guitar",
+            "bass",
+            "vocals",
+            "cajon"
+        ],
+        "musical_skill_level": null,
+        "composition_context": "working with a band",
+        "emotion_or_mood_preferences": [
+            "hypnotic",
+            "tense",
+            "mystical"
+        ],
+        "rejection_of_guided_discovery": null,
+        "keywords": [
+            "E7sus2",
+            "Fmaj7#11",
+            "Em9",
+            "Dm7add4"
+        ]
+    },
+    "note": "Missing field(s) in the user profile: age , favorite_genres , musical_skill_level , rejection_of_guided_discovery. Consider asking the user about the missing details naturally in conversation. Try to predict what type of Keywords the user wants to generate a progression based on, using the user's preferences and previous progressions i.e. suggest to the user Keywords that describe the genre, style, song type, key, mode, and bar combination based on the user's preferences and conversation history to generate a chord progression.",
+    "topics": {
+        "5": {
+            "Topic Title": "Fusion of Eastern and Western Music",
+            "Topic Description": "The conversation highlights the user's passion for blending oriental and western music, particularly through artists and subgenres like western psychedelic rock. It emphasizes the unique musical journey and exploration of instruments that contribute to this fusion."
+        },
+        "1": {
+            "Topic Title": "Band Setup and Musical Fusion",
+            "Topic Description": "This topic explores the user's band setup, focusing on the integration of electric guitar and oud, highlighting the blend of oriental and western music styles. The conversation emphasizes the user's passion for music and the creative possibilities within their musical journey."
+        },
+        "2": {
+            "Topic Title": "Music Genres and Styles Exploration",
+            "Topic Description": "The discussion revolves around exploring various music genres, styles, and subgenres, as well as the user's favorite bars and the desired vibe for a musical progression. Insights into personal inspirations and skills are also encouraged to enhance the creative process."
+        },
+        "4": {
+            "Topic Title": "Creating Custom Chord Progressions",
+            "Topic Description": "This topic focuses on crafting personalized chord progressions, incorporating specific instruments and elements. It emphasizes understanding the user's musical vision, skills, and preferences to tailor suggestions that resonate with their unique style and genre interests."
+        },
+        "0": {
+            "Topic Title": "Fusion Music Elements and Techniques",
+            "Topic Description": "This topic explores the integration of various elements and techniques in fusion music, particularly focusing on the blend of Middle Eastern modes, like the Phrygian mode, with Western psychedelic rock, creating a unique sound that captures a mystical and hypnotic vibe."
+        },
+        "3": {
+            "Topic Title": "Musical Journey Suggestions",
+            "Topic Description": "The conversation focuses on generating personalized ideas and inspiration for the user's musical journey, encouraging them to share specific genres or styles for tailored suggestions and addressing any other concerns they may have."
+        }
+    }
+}
